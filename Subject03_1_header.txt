@@ -1,0 +1,2 @@
+Version,Subject,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+0       ,23 M 01-JAN-1993 Subject3                                                       ,Startdate 01-JAN-2010 23 Doctor NeuroCom_Professional_3.0.0                     ,01.01.10,00.00.00,5888    ,EDF+C                                       ,182,1       ,21
