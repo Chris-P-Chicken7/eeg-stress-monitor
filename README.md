@@ -1,1 +1,1 @@
-EEG based Stress Monitor
+# EEG based Stress Monitor
